@@ -33,8 +33,9 @@ Fig3. Browser Screenshot of the running project, displaying text in the browser
 
 ###### Assignment Summary - 
 
-Created a flask app renderng "Kubernetes Assignment", created dockerfile and docker-compose.yaml file to run the project locally . Pushed this docker image in to my docker account. 
+1. Created a flask app rendering "Kubernetes Assignment"
+2. Created dockerfile and docker-compose.yaml file to run the project locally . 
+3. Pushed this docker image in to my docker account. 
+4. Created Kubernetes deployment.yaml and service.yaml file to deploy the docker project.
 
-Created Kubernetes deployment.yaml and service.yaml file to deploy the project.
-
-All Files are available in github assignment repo
+All Project Files are available in github assignment repo
